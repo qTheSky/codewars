@@ -1,0 +1,1 @@
+const double = (arr)=>arr.map(n=>n*2) 
