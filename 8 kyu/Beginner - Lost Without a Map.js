@@ -1,0 +1,1 @@
+const maps = (n)=> n.map(n=>n*2)
