@@ -1,0 +1,1 @@
+const check = (arr, value) => arr.includes(value)
