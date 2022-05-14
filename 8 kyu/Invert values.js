@@ -1,0 +1,1 @@
+const invert = (n) => n.map(n=>-n)
