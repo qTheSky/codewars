@@ -1,0 +1,1 @@
+const smash = (arr)=> arr.join(' ')
