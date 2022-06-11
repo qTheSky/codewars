@@ -1,0 +1,1 @@
+const sum = (arr) => arr.reduce((prev, a) => prev + a, 0)
