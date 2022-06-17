@@ -1,0 +1,1 @@
+const doubleInteger= (n)=> n*2
